@@ -2,6 +2,10 @@
 
 Simple [hosts file](http://en.wikipedia.org/wiki/Hosts_%28file%29) (```/etc/hosts```) management in Go (golang).
 
+## Releases
+Find everything you need to start in your architecture on the 
+[releases](https://github.com/luthermonson/goodhosts/releases) page.
+
 ## Features
 
 * List, add, remove and check hosts file entries from code or the command-line
